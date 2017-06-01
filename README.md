@@ -1,4 +1,4 @@
-# Write a Python program to get the unique elements of an array.
+# Write a Python program to get the unique elements of an array using Numpy.
 
 Sample Output:
 
