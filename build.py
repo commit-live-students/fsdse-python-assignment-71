@@ -2,6 +2,5 @@ import numpy as np
 
 
 def solution(array):
-    """
-    Enter your code here
-    """
+    ret=np.array(array)
+    return np.unique(ret)
