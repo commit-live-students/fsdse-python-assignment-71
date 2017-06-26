@@ -1,7 +1,5 @@
 import numpy as np
 
-
 def solution(array):
-    """
-    Enter your code here
-    """
+    x = np.array(array)
+    return np.unique(x)
